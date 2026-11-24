@@ -13,7 +13,7 @@ An ALU that performs operations on two 4-bit numbers
 
 ## How to test
 
-Alu 4 bits
+Alu 4 bitss
 
 ## External hardware
 
